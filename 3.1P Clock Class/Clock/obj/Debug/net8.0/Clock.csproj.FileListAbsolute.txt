@@ -1,0 +1,14 @@
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Clock\Clock\bin\Debug\net8.0\Clock.exe
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Clock\Clock\bin\Debug\net8.0\Clock.deps.json
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Clock\Clock\bin\Debug\net8.0\Clock.runtimeconfig.json
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Clock\Clock\bin\Debug\net8.0\Clock.dll
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Clock\Clock\bin\Debug\net8.0\Clock.pdb
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Clock\Clock\obj\Debug\net8.0\Clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Clock\Clock\obj\Debug\net8.0\Clock.AssemblyInfoInputs.cache
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Clock\Clock\obj\Debug\net8.0\Clock.AssemblyInfo.cs
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Clock\Clock\obj\Debug\net8.0\Clock.csproj.CoreCompileInputs.cache
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Clock\Clock\obj\Debug\net8.0\Clock.dll
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Clock\Clock\obj\Debug\net8.0\refint\Clock.dll
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Clock\Clock\obj\Debug\net8.0\Clock.pdb
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Clock\Clock\obj\Debug\net8.0\Clock.genruntimeconfig.cache
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Clock\Clock\obj\Debug\net8.0\ref\Clock.dll
