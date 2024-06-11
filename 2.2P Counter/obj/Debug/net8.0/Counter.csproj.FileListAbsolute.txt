@@ -1,0 +1,28 @@
+C:\C_Code\COS20007\Projects\Counter\Counter\obj\Debug\net8.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_Code\COS20007\Projects\Counter\Counter\obj\Debug\net8.0\Counter.AssemblyInfoInputs.cache
+C:\C_Code\COS20007\Projects\Counter\Counter\obj\Debug\net8.0\Counter.AssemblyInfo.cs
+C:\C_Code\COS20007\Projects\Counter\Counter\obj\Debug\net8.0\Counter.csproj.CoreCompileInputs.cache
+C:\C_Code\COS20007\Projects\Counter\Counter\bin\Debug\net8.0\Counter.exe
+C:\C_Code\COS20007\Projects\Counter\Counter\bin\Debug\net8.0\Counter.deps.json
+C:\C_Code\COS20007\Projects\Counter\Counter\bin\Debug\net8.0\Counter.runtimeconfig.json
+C:\C_Code\COS20007\Projects\Counter\Counter\bin\Debug\net8.0\Counter.dll
+C:\C_Code\COS20007\Projects\Counter\Counter\bin\Debug\net8.0\Counter.pdb
+C:\C_Code\COS20007\Projects\Counter\Counter\obj\Debug\net8.0\Counter.dll
+C:\C_Code\COS20007\Projects\Counter\Counter\obj\Debug\net8.0\refint\Counter.dll
+C:\C_Code\COS20007\Projects\Counter\Counter\obj\Debug\net8.0\Counter.pdb
+C:\C_Code\COS20007\Projects\Counter\Counter\obj\Debug\net8.0\Counter.genruntimeconfig.cache
+C:\C_Code\COS20007\Projects\Counter\Counter\obj\Debug\net8.0\ref\Counter.dll
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Counter\Counter\bin\Debug\net8.0\Counter.exe
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Counter\Counter\bin\Debug\net8.0\Counter.deps.json
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Counter\Counter\bin\Debug\net8.0\Counter.runtimeconfig.json
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Counter\Counter\bin\Debug\net8.0\Counter.dll
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Counter\Counter\bin\Debug\net8.0\Counter.pdb
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Counter\Counter\obj\Debug\net8.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Counter\Counter\obj\Debug\net8.0\Counter.AssemblyInfoInputs.cache
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Counter\Counter\obj\Debug\net8.0\Counter.AssemblyInfo.cs
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Counter\Counter\obj\Debug\net8.0\Counter.csproj.CoreCompileInputs.cache
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Counter\Counter\obj\Debug\net8.0\Counter.dll
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Counter\Counter\obj\Debug\net8.0\refint\Counter.dll
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Counter\Counter\obj\Debug\net8.0\Counter.pdb
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Counter\Counter\obj\Debug\net8.0\Counter.genruntimeconfig.cache
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\Counter\Counter\obj\Debug\net8.0\ref\Counter.dll
