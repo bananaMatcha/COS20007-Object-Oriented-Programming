@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2nd year\\Sem 1\\COS20007 - Object Oriented Programming\\Code\\Projects\\ShapeDrawer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC92A1FC-6D7D-46DE-90F8-16C0123AC5E4}|ShapeDrawer.csproj|d:\\2nd year\\sem 1\\cos20007 - object oriented programming\\code\\projects\\shapedrawer\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC92A1FC-6D7D-46DE-90F8-16C0123AC5E4}|ShapeDrawer.csproj|solutionrelative:extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC92A1FC-6D7D-46DE-90F8-16C0123AC5E4}|ShapeDrawer.csproj|d:\\2nd year\\sem 1\\cos20007 - object oriented programming\\code\\projects\\shapedrawer\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC92A1FC-6D7D-46DE-90F8-16C0123AC5E4}|ShapeDrawer.csproj|solutionrelative:shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC92A1FC-6D7D-46DE-90F8-16C0123AC5E4}|ShapeDrawer.csproj|d:\\2nd year\\sem 1\\cos20007 - object oriented programming\\code\\projects\\shapedrawer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC92A1FC-6D7D-46DE-90F8-16C0123AC5E4}|ShapeDrawer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC92A1FC-6D7D-46DE-90F8-16C0123AC5E4}|ShapeDrawer.csproj|d:\\2nd year\\sem 1\\cos20007 - object oriented programming\\code\\projects\\shapedrawer\\myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC92A1FC-6D7D-46DE-90F8-16C0123AC5E4}|ShapeDrawer.csproj|solutionrelative:myline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC92A1FC-6D7D-46DE-90F8-16C0123AC5E4}|ShapeDrawer.csproj|d:\\2nd year\\sem 1\\cos20007 - object oriented programming\\code\\projects\\shapedrawer\\myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC92A1FC-6D7D-46DE-90F8-16C0123AC5E4}|ShapeDrawer.csproj|solutionrelative:myrectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC92A1FC-6D7D-46DE-90F8-16C0123AC5E4}|ShapeDrawer.csproj|d:\\2nd year\\sem 1\\cos20007 - object oriented programming\\code\\projects\\shapedrawer\\drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC92A1FC-6D7D-46DE-90F8-16C0123AC5E4}|ShapeDrawer.csproj|solutionrelative:drawing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC92A1FC-6D7D-46DE-90F8-16C0123AC5E4}|ShapeDrawer.csproj|d:\\2nd year\\sem 1\\cos20007 - object oriented programming\\code\\projects\\shapedrawer\\mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC92A1FC-6D7D-46DE-90F8-16C0123AC5E4}|ShapeDrawer.csproj|solutionrelative:mycircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyCircle.cs",
+              "DocumentMoniker": "D:\\2nd year\\Sem 1\\COS20007 - Object Oriented Programming\\Code\\Projects\\ShapeDrawer\\MyCircle.cs",
+              "RelativeDocumentMoniker": "MyCircle.cs",
+              "ToolTip": "D:\\2nd year\\Sem 1\\COS20007 - Object Oriented Programming\\Code\\Projects\\ShapeDrawer\\MyCircle.cs",
+              "RelativeToolTip": "MyCircle.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:01:38.407Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\2nd year\\Sem 1\\COS20007 - Object Oriented Programming\\Code\\Projects\\ShapeDrawer\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape.cs",
+              "ToolTip": "D:\\2nd year\\Sem 1\\COS20007 - Object Oriented Programming\\Code\\Projects\\ShapeDrawer\\Shape.cs",
+              "RelativeToolTip": "Shape.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:23:40.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyRectangle.cs",
+              "DocumentMoniker": "D:\\2nd year\\Sem 1\\COS20007 - Object Oriented Programming\\Code\\Projects\\ShapeDrawer\\MyRectangle.cs",
+              "RelativeDocumentMoniker": "MyRectangle.cs",
+              "ToolTip": "D:\\2nd year\\Sem 1\\COS20007 - Object Oriented Programming\\Code\\Projects\\ShapeDrawer\\MyRectangle.cs",
+              "RelativeToolTip": "MyRectangle.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAowFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:01:12.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2nd year\\Sem 1\\COS20007 - Object Oriented Programming\\Code\\Projects\\ShapeDrawer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\2nd year\\Sem 1\\COS20007 - Object Oriented Programming\\Code\\Projects\\ShapeDrawer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwGkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T08:54:20.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyLine.cs",
+              "DocumentMoniker": "D:\\2nd year\\Sem 1\\COS20007 - Object Oriented Programming\\Code\\Projects\\ShapeDrawer\\MyLine.cs",
+              "RelativeDocumentMoniker": "MyLine.cs",
+              "ToolTip": "D:\\2nd year\\Sem 1\\COS20007 - Object Oriented Programming\\Code\\Projects\\ShapeDrawer\\MyLine.cs",
+              "RelativeToolTip": "MyLine.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAADwvw4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T07:49:59.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "D:\\2nd year\\Sem 1\\COS20007 - Object Oriented Programming\\Code\\Projects\\ShapeDrawer\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "ExtensionMethods.cs",
+              "ToolTip": "D:\\2nd year\\Sem 1\\COS20007 - Object Oriented Programming\\Code\\Projects\\ShapeDrawer\\ExtensionMethods.cs",
+              "RelativeToolTip": "ExtensionMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T02:06:33.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Drawing.cs",
+              "DocumentMoniker": "D:\\2nd year\\Sem 1\\COS20007 - Object Oriented Programming\\Code\\Projects\\ShapeDrawer\\Drawing.cs",
+              "RelativeDocumentMoniker": "Drawing.cs",
+              "ToolTip": "D:\\2nd year\\Sem 1\\COS20007 - Object Oriented Programming\\Code\\Projects\\ShapeDrawer\\Drawing.cs",
+              "RelativeToolTip": "Drawing.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAcwJIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:56:46.854Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

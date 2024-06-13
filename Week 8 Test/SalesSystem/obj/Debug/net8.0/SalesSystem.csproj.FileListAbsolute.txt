@@ -1,0 +1,14 @@
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\SalesSystem\SalesSystem\bin\Debug\net8.0\SalesSystem.exe
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\SalesSystem\SalesSystem\bin\Debug\net8.0\SalesSystem.deps.json
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\SalesSystem\SalesSystem\bin\Debug\net8.0\SalesSystem.runtimeconfig.json
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\SalesSystem\SalesSystem\bin\Debug\net8.0\SalesSystem.dll
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\SalesSystem\SalesSystem\bin\Debug\net8.0\SalesSystem.pdb
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\SalesSystem\SalesSystem\obj\Debug\net8.0\SalesSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\SalesSystem\SalesSystem\obj\Debug\net8.0\SalesSystem.AssemblyInfoInputs.cache
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\SalesSystem\SalesSystem\obj\Debug\net8.0\SalesSystem.AssemblyInfo.cs
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\SalesSystem\SalesSystem\obj\Debug\net8.0\SalesSystem.csproj.CoreCompileInputs.cache
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\SalesSystem\SalesSystem\obj\Debug\net8.0\SalesSystem.dll
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\SalesSystem\SalesSystem\obj\Debug\net8.0\refint\SalesSystem.dll
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\SalesSystem\SalesSystem\obj\Debug\net8.0\SalesSystem.pdb
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\SalesSystem\SalesSystem\obj\Debug\net8.0\SalesSystem.genruntimeconfig.cache
+D:\2nd year\Sem 1\COS20007 - Object Oriented Programming\Code\Projects\SalesSystem\SalesSystem\obj\Debug\net8.0\ref\SalesSystem.dll
